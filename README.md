@@ -41,6 +41,6 @@ g++ -std=c++17 -pthread main.cpp Order.cpp OrderBook.cpp -o MatchingEngine
 ```
 
 👨‍💻 Author
-Sahil Mourya
-LinkedIn - www.linkedin.com/in/sahil-mourya-b34827217
+Sahil Mourya  
+LinkedIn - www.linkedin.com/in/sahil-mourya-b34827217  
 mouryasahil99@gmail.com
