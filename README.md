@@ -18,13 +18,13 @@ A high-performance, multithreaded C++17 order matching engine simulating exchang
 
 ## 📁 Project Structure
 
-├── src/
-│ ├── main.cpp
-│ ├── OrderBook.h
-│ ├── OrderBook.cpp
-│ └── Utils.h
-├── trades.txt
-└── README.md
+├── src/  
+│ ├── main.cpp  
+│ ├── OrderBook.h  
+│ ├── OrderBook.cpp  
+│ └── Utils.h  
+├── trades.txt  
+└── README.md  
 
 
 ## 🛠️ Build & Run
