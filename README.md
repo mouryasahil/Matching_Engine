@@ -36,8 +36,8 @@ A high-performance, multithreaded C++17 order matching engine simulating exchang
 
 ### Using g++ (example)
 ```bash
-g++ -std=c++17 -pthread src/*.cpp -o matching_engine
-./matching_engine
+g++ -std=c++17 -pthread main.cpp Order.cpp OrderBook.cpp -o MatchingEngine
+./MatchingEngine
 ```
 
 👨‍💻 Author
